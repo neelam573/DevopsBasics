@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: neelam
+  neelam: demo
 
 steps:
 - task: Maven@3
